@@ -75,6 +75,13 @@ export const portfolioData = {
   ],
   experience: [
     {
+      company: "Tata Consultancy Services (TCS)",
+      position: "Software Engineer",
+      duration: "Aug 2024 - Present",
+      year: "2024",
+      description: "Working as Software Engineer in Ai.Cloud unit, developing and implementing AI-driven cloud solutions."
+    },
+    {
       company: "Persistent Systems",
       position: "Persistent Martian Intern",
       duration: "7 weeks (Virtual)",
