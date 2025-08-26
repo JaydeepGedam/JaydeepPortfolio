@@ -41,17 +41,28 @@ export const portfolioData = {
   projects: [
     {
       id: 1,
+      title: "GroceryMate - TCS Training Project",
+      description: "A web app for user authentication, grocery shopping, and admin product management. Built the frontend with HTML, Tailwind CSS, and JavaScript for improved UI/UX.",
+      technologies: ["HTML", "Tailwind CSS", "JavaScript", "Frontend"],
+      github: "https://github.com/JaydeepGedam/grocerymate",
+      demo: "",
+      status: "Completed",
+      year: "2024",
+      icon: "🛒"
+    },
+    {
+      id: 2,
       title: "Nayaan - Smart Device for Visually Impaired",
       description: "Patented assistive device designed to address challenges faced by visually impaired individuals. Worked on PaddleOCR Engine, DFRobot offline LLM model, NLP interface and frontend development. Conducted requirement analysis with 50+ blind students and faculties.",
       technologies: ["PaddleOCR", "DFRobot LLM", "NLP", "JavaScript", "Frontend"],
       github: "https://github.com/JaydeepGedam/nayaan",
       demo: "",
       status: "Patented & Published",
-      year: "2024",
+      year: "2023",
       icon: "🤖"
     },
     {
-      id: 2,
+      id: 3,
       title: "NextBMS - Smart Business Management",
       description: "Web application using Next.js which provides inventory and people management services to commerce stores. Worked on front-end development for enhancing the user interface and experience.",
       technologies: ["Next.js", "JavaScript", "React", "UI/UX"],
@@ -61,17 +72,6 @@ export const portfolioData = {
       year: "2023",
       icon: "📊"
     },
-    {
-      id: 3,
-      title: "GroceryMate - TCS Training Project",
-      description: "A web app for user authentication, grocery shopping, and admin product management. Built the frontend with HTML, Tailwind CSS, and JavaScript for improved UI/UX.",
-      technologies: ["HTML", "Tailwind CSS", "JavaScript", "Frontend"],
-      github: "https://github.com/JaydeepGedam/grocerymate",
-      demo: "",
-      status: "Completed",
-      year: "2022",
-      icon: "🛒"
-    }
   ],
   experience: [
     {
